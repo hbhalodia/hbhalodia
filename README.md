@@ -1,5 +1,11 @@
 ### Hi there, I'm <a href="#" target="_blank">Hit Bhalodia</a> 👋
 
+📈 **My GitHub Stats:**
+
+<div>
+ [![Hit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbhalodia)](https://github.com/hbhalodia/)
+</div>
+
 <!--
 **hbhalodia/hbhalodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
