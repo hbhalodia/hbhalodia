@@ -2,7 +2,7 @@
 
 📈 **My GitHub Stats:**
 
-![Hit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbhalodia&show_icons=true&theme=radical)
+![Hit's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbhalodia&show_icons=true&theme=tokyonight)
 
 <!--
 **hbhalodia/hbhalodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
