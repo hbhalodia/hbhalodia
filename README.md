@@ -12,6 +12,7 @@
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbhalodia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbhalodia&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=hbhalodia&theme=ayu-light&border_radius=5&exclude_days=Sun%2CSat&type=png"/>
 </p>
 
 **My WakaTime Stats**
