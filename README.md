@@ -9,6 +9,8 @@
 
 📈 **My GitHub Stats:**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hbhalodia&label=Profile%20views&color=0e75b6&style=flat" alt="hbhalodia" /> </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hbhalodia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
